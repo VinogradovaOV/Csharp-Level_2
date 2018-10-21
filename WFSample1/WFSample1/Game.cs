@@ -9,7 +9,7 @@ using System.Windows.Forms;
 namespace WFSample1
 {
     /// <summary>
-    ///  Класс Игра Астероиды
+    ///  Класс Игры Астероиды
     /// </summary>
     static class Game
     {
