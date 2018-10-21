@@ -18,7 +18,7 @@ namespace WFSample1
         Image imgAster = Image.FromFile("Resources\\Aster.jpg");
 
         /// <summary>
-        /// Объект астероид
+        /// Объект Астероид
         /// </summary>
         /// <param name="pos">порзиция астероида</param>
         /// <param name="dir">смещение астероида</param>
